@@ -8,4 +8,4 @@
 
 This is an open source forum based on discuz！.
 
-Contributors：JingYu Zhang、WenBin Wu、NaYing Zheng、Min SiYuan、
+Contributors：JingYu Zhang、WenBin Wu、NaYing Zheng、SiYuan Min、
